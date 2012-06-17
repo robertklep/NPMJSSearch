@@ -1,0 +1,13 @@
+{
+	"name"						: "NPMJSSearch",
+	"version"					: "0.0",
+	"description"			: "Makes searching search.npmjs.org easier.",
+	"authors"					: [{
+      "name"	: "Robert Klep",
+      "email"	: "robert+chrome-npms@klep.name"
+	}],
+	"content_scripts"	: [ {
+		"matches"	: [ "http://search.npmjs.org/*", "https://search.npmjs.org/*" ],
+		"js"			: [ "main.js" ]
+	} ]
+}
