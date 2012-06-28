@@ -23,6 +23,6 @@ But how do I install this extension?
 Tip
 ---
 
-Create a search shortcut from so you can search from the omnibox! (also
+Create a search shortcut from so you can search from the omnibox (also
 know as 'the location bar'). You can add shortcuts in the Chrome
 search engine settings window.
