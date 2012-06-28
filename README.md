@@ -1,7 +1,7 @@
 NPMJSSearch
 ===========
 
-Makes searching search.npmjs.org from Chrome easier.
+Makes searching [search.npmjs.org](http://search.npmjs.org) from Chrome easier.
 
 How?
 ----
